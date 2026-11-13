@@ -1,0 +1,10 @@
+INSERT INTO public.programs (slug, name, short_name, category, description, is_active, sort_order)
+VALUES (
+    'college-entrance-mvp',
+    'College Entrance Exam Reviewer (UPCAT / ACET / DCAT / USTET)',
+    'College Entrance',
+    'college_entrance',
+    'Comprehensive practice bank covering Mathematics, Science, Language Proficiency, and Reading Comprehension.',
+    true,
+    1
+);
